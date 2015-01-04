@@ -1,0 +1,10 @@
+public class TestVarRecordPool
+{
+	//TODO TestFault需要重新设计
+	//为什么比PlainRecordPool慢了这么多，需要调整
+}
+
+public class TestPlainRecordPool
+{
+	//TODO test head broken
+}

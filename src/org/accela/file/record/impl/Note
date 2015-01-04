@@ -1,0 +1,5 @@
+1. 分析程序中的hot spot点
+2. 想办法减少磁盘访问次数
+3. BufferFactory是一个瓶颈
+4. RandomFileAccesser
+5. 用文件映射可能能够快很多，总觉得IO是慢的最终原因

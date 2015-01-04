@@ -1,0 +1,1 @@
+Allocate random sized byte block and save to file. The storage unit in a file is organized by fixed length blocks. A freelist is used to manage block allocation. Using smarter way than FileRecordV1. Code in my school time.
